@@ -27,3 +27,7 @@
 1. Clone the repository
 2. Open the project in your IDE of choice
 3. Run the application
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</p>
